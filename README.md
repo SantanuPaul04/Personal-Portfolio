@@ -4,7 +4,7 @@ Welcome to My Personal Portfolio Repository! This Project Showcases My About, Sk
 
 ## 🚀 Live Demo
 
-You can view my live portfolio at [Herel](https://personal-portfolio-by-santanupaul.netlify.app/).
+You can view my live portfolio at [Here](https://personal-portfolio-by-santanupaul.netlify.app/).
 
 ## 🛠️ Technologies Used
 
