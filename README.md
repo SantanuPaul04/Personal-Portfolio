@@ -33,15 +33,18 @@ Here are some screenshots of my portfolio:
 
 - **Homepage** :
 
-  ![Homepage](https://github.com/user-attachments/assets/f750472d-46fa-4494-b041-1bd8299afea7)
+  ![Homepage](https://github.com/user-attachments/assets/eeaf5a64-89ca-44de-beeb-c2f65041f89f)
+
 
 - **Projects Section**:
   
-  ![Projects](https://github.com/user-attachments/assets/54033fca-59a5-4e23-b618-c4d61ea33680)
+  ![Projects](https://github.com/user-attachments/assets/d6f6b870-c4a8-437a-91e9-eab26052dd8f)
+
 
 - **Contact Form**:
   
-  ![Contact](https://github.com/user-attachments/assets/2dda3033-0f52-4433-a053-d6e0637abbd8)
+  ![Contact](https://github.com/user-attachments/assets/1235e9f7-1a03-4017-9c07-c9ca70c0714b)
+
 
 
  #### Kindly See The Live [Demo]() To Show All The Section
