@@ -888,6 +888,9 @@ section{
     transform: scale(1.01) translateY(-5px);
     color: var(--violet);   
 }
+.contacticons a{
+    text-decoration: none;
+}
 .contacticons i{
     display: inline-flex;
     justify-content: center;
