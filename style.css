@@ -1132,11 +1132,11 @@ section{
         top: 0;
         right: -200px;
         width: 164px;
-        height: 75vh;
-        padding-top: 15px;
+        height: auto;
+        border-radius: 10px;
         display: block;
         margin: 16px;
-        background: black;
+         background: rgb(31, 31, 31);
         z-index: 2;
         transition: right 0.5s;
     }
@@ -1191,9 +1191,8 @@ section{
     } */
     .navbar {
         right: -200px;
-        width: 40vw;
-        height: 60vh;
-        padding-top: 12px;
+        width: 35vw;
+        height: auto;
         margin: 10px 6px 0px 0px;
     }    
     .header{
