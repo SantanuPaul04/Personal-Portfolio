@@ -73,7 +73,16 @@ readmorebtn.addEventListener('click', (e)=>{
         document.querySelectorAll('.about-text')[0].style.height = "160vh";
         document.querySelectorAll('.container')[0].style.padding = "10vh 5vw";
     }
-
+        
+    else if(!media4.matches  && readmorebtn.innerText === 'Read More...'){
+        showmore.style.display = 'inline';
+        
+        readmorebtn.innerText = 'Read Less';
+         
+        document.querySelectorAll('.about-text')[0].style.height = "160vh";
+        document.querySelectorAll('.container')[0].style.padding = "10vh 5vw";
+    }
+    
     else{
       
         if (media.matches && readmorebtn.innerText === 'Read Less')
