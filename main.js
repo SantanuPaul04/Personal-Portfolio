@@ -80,7 +80,7 @@ readmorebtn.addEventListener('click', (e)=>{
         readmorebtn.innerText = 'Read Less';
          
         document.querySelectorAll('.about-text')[0].style.height = "160vh";
-        document.querySelectorAll('.container')[0].style.padding = "10vh 5vw";
+        document.querySelectorAll('.container')[0].style.padding = "0vh 5vw";
     }
     
     else{
