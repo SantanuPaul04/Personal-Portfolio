@@ -133,6 +133,7 @@ readmorebtn.addEventListener('click', (e)=>{
             // Full Screen
 
             readmorebtn.innerText = 'Read More...';
+            showmore.style.display = 'none';
 
             document.querySelectorAll('.about-text')[0].style.height = "100%";
         }
